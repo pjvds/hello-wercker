@@ -1,3 +1,3 @@
 permalink: /:title
 
-exclude: []
+exclude: [wercker.yml]
