@@ -10,5 +10,5 @@ build:
     # A custom script step
     # that actually builds the jekyll site
     - script:
-      name: generate site
-      code: bundler exec jekyll build --trace
+        name: generate site
+        code: bundler exec jekyll build --trace
